@@ -11,7 +11,7 @@ title: Fembi
 description: 'A small note and journey about me.'
 
 # Replace with your domain, e.g. 'https://username.github.io'
-url: https://fembiisnanto.com
+url: 'https://fembiisnanto.com'
 
 author: Fembi Isnanto Saputra                  # change to your full name
 
@@ -64,7 +64,7 @@ toc: true
 
 
 # if your site type is Project Pages site, change below value to '/projectname'
-baseurl:
+baseurl: ''
 
 paginate: 10
 
