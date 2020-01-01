@@ -10,8 +10,7 @@
       {% assign first = site.first_run | plus: 0 %}
       {% assign last = 'now' | date: "%Y" | plus: 0 %}
       <p class="mb-0">
-        © {% if last > first %}{{ first }}-{% endif %}{{-last-}}
-        <a href="{{ site.social.links[3] }}" class="ml-1">{{ site.social.name }}</a>.
+        © {% if last > first %}{{ first }}-{% endif %}{{-last-}}.
         <br>Powered by <a href="https://fembiisnanto.com" target="_blank">Fembi</a>, hosted on <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
       </p>
     </div>
