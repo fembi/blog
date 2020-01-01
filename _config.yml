@@ -6,14 +6,14 @@
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 #--------------------------
 
-title: Chirpy
+title: Fembi
 
 description: 'A small note and journey about me.'
 
 # Replace with your domain, e.g. 'https://username.github.io'
 url: 'https://fembiisnanto.com'
 
-author: Fembi_Isnanto_Saputra                  # change to your full name
+author: Fembi Isnanto Saputra                  # change to your full name
 
 avatar: /assets/img/sample/avatar.jpg   # Support network resources.
 
@@ -21,7 +21,7 @@ github:
   username: fembi             # change to your github username
 
 twitter:
-  username: fembi            # change to your twitter username
+  username: fembiisnanto            # change to your twitter username
 
 social:
   name: Fembi_Isnanto_Saputra                  # it will shows as the copyright owner in Footer
