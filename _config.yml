@@ -8,30 +8,30 @@
 
 title: Chirpy
 
-description: 'A text-based Jekyll theme.'
+description: 'A small note and journey about me.'
 
 # Replace with your domain, e.g. 'https://username.github.io'
-url: 'http://fembiisnanto.com'
+url: 'https://fembiisnanto.com'
 
-author: your_full_name                  # change to your full name
+author: Fembi_Isnanto_Saputra                  # change to your full name
 
 avatar: /assets/img/sample/avatar.jpg   # Support network resources.
 
 github:
-  username: github_username             # change to your github username
+  username: fembi             # change to your github username
 
 twitter:
-  username: twitter_username            # change to your twitter username
+  username: fembi            # change to your twitter username
 
 social:
-  name: your_full_name                  # it will shows as the copyright owner in Footer
-  email: example@doamin.com             # change to your email address
+  name: Fembi_Isnanto_Saputra                  # it will shows as the copyright owner in Footer
+  email: fembiisnanto@gmail.com             # change to your email address
   links:
     # The first element serves as the copyright owner's link
-    - https://twitter.com/username      # change to your twitter homepage
-    - https://github.com/username       # change to your github homepage
+    - https://twitter.com/fembiisnanto      # change to your twitter homepage
+    - https://github.com/fembi       # change to your github homepage
     # Uncomment below to add more social links
-    # - https://www.facebook.com/username
+    - https://www.facebook.com/fembiisnanto
     # - https://www.linkedin.com/in/username
 
 google_site_verification: google_meta_tag_verification # change to your verification string
@@ -39,7 +39,7 @@ google_site_verification: google_meta_tag_verification # change to your verifica
 #--------------------------
 
 # Change to your timezone › http://www.timezoneconverter.com/cgi-bin/findzone/findzone
-timezone: Asia/Shanghai
+timezone: Asia/Jakarta
 
 google_analytics:
   # Fill with your Google Analytics ID
