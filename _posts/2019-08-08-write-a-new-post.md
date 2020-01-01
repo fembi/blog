@@ -1,10 +1,12 @@
 ---
-title: "Writing a New Post"
-date: 2019-08-08 14:10:00 +0800
-categories: [Blogging, Tutorial]
-tags: [writing]
----
+title: Writing a New Post
+date: 2019-08-08T06:10:00.000+00:00
+categories:
+- Blogging
+tags:
+- writing
 
+---
 ## Naming and Path
 
 Create a new file name with the format `YYYY-MM-DD-title.md` then put it into `_post` of the root directory.
@@ -91,4 +93,3 @@ If you want to display the **Liquid** snippet, surround the liquid code with `{%
 
 ## Learn More
 For more knowledge about Jekyll posts, visit the [Jekyll Docs: Posts](https://jekyllrb.com/docs/posts/).
-
