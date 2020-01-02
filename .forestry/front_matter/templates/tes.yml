@@ -16,12 +16,3 @@ fields:
   label: tags
 pages:
 - _posts/2020-01-01-intro-juniper.md
-- _posts/berkenalan-dengan-cisco-packet-tracer.md
-- _posts/berkenalan-dengan-eve-ng.md
-- _posts/berkenalan-dengan-gns3.md
-- _posts/intro-bash.md
-- _posts/intro-c.md
-- _posts/intro-cisco.md
-- _posts/intro-mikrotik.md
-- _posts/intro-python.md
-- _posts/intro-ruby.md
