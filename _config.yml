@@ -18,7 +18,7 @@ author: Fembi Isnanto Saputra                  # change to your full name
 avatar: /assets/img/sample/avatar.jpg   # Support network resources.
 
 github:
-  username: fembi             # change to your github username
+  username:             # change to your github username
 
 twitter:
   username:            # change to your twitter username
@@ -29,7 +29,7 @@ social:
   links:
     # The first element serves as the copyright owner's link
     #- https://twitter.com/fembiisnanto      # change to your twitter homepage
-    - https://github.com/fembi       # change to your github homepage
+    #- https://github.com/fembi       # change to your github homepage
     # Uncomment below to add more social links
     - https://www.facebook.com/fembiisnanto
     # - https://www.linkedin.com/in/username
