@@ -8,7 +8,7 @@ tags:
 - writing
 
 seo:
-  date_modified: 2020-01-01 16:05:12 +0000
+  date_modified: 2020-01-02 16:28:41 +0700
 ---
 ## Naming and Path
 

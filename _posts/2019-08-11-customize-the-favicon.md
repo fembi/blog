@@ -1,6 +1,6 @@
 ---
 title: Customize the Favicon
-date: 2019-08-10T16:34:00.000+00:00
+date: 2019-08-10T16:34:00+00:00
 categories:
 - Blogging
 - Tutorial
@@ -8,6 +8,8 @@ tags:
 - favicon
 toc: false
 
+seo:
+  date_modified: 2020-01-02 09:35:53 +0000
 ---
 the image files of [Favicons](https://www.favicon-generator.org/about/) are placed in `assets/img/favicons/`. You may need to replace them with your own. So let's see how to customize these Favicons.
 

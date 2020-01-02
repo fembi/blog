@@ -1,12 +1,14 @@
 ---
 title: Getting Started
-date: 2019-08-09T12:55:00.000+00:00
+date: 2019-08-09T12:55:00+00:00
 categories:
 - Blogging
 - Tutorial
 tags:
 - getting started
 
+seo:
+  date_modified: 2020-01-02 09:33:14 +0000
 ---
 ## Preparation
 
