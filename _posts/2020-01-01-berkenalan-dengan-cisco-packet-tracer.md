@@ -5,6 +5,6 @@ categories:
 - Simulator
 - Packet Tracer
 tags:
-- cisco
+- packet tracer
 
 ---
