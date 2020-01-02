@@ -1,14 +1,17 @@
 ---
-title: "Customize the Favicon"
-date: 2019-08-11 00:34:00 +0800
-categories: [Blogging, Tutorial]
-tags: [favicon]
+title: Customize the Favicon
+date: 2019-08-10T16:34:00.000+00:00
+categories:
+- Blogging
+- Tutorial
+tags:
+- favicon
 toc: false
+
 ---
+the image files of [Favicons](https://www.favicon-generator.org/about/) are placed in `assets/img/favicons/`. You may need to replace them with your own. So let's see how to customize these Favicons.
 
-In [**Chirpy**](https://github.com/cotes2020/jekyll-theme-chirpy/), the image files of [Favicons](https://www.favicon-generator.org/about/) are placed in `assets/img/favicons/`. You may need to replace them with your own. So let's see how to customize these Favicons.
-
-Whit a square image (PNG, JPG or GIF) in hand, open the site [*Favicon & App Icon Generator*](https://www.favicon-generator.org/) and upload your original image.
+Whit a square image (PNG, JPG or GIF) in hand, open the site [_Favicon & App Icon Generator_](https://www.favicon-generator.org/) and upload your original image.
 
 ![upload-image](/assets/img/sample/upload-image.png)
 
@@ -18,9 +21,9 @@ Click button <kbd>Create Favicon</kbd> and wait a moment for the website to gene
 
 Download the generated package, unzip and delete the following two from the extracted files:
 
-- browserconfig.xml
-- manifest.json
- 
+* browserconfig.xml
+* manifest.json
+
 Now, copy the rest image files (`.PNG` and `.ICO`) to cover the original one in folder `assets/img/favicons/`.
 
 At last, don't forget to rebuild your site so that the icon becomes your custom edition.
