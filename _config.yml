@@ -21,14 +21,14 @@ github:
   username: fembi             # change to your github username
 
 twitter:
-  username: fembiisnanto            # change to your twitter username
+  username:            # change to your twitter username
 
 social:
   name: Fembi                  # it will shows as the copyright owner in Footer
   email: fembiisnanto@gmail.com             # change to your email address
   links:
     # The first element serves as the copyright owner's link
-    - https://twitter.com/fembiisnanto      # change to your twitter homepage
+    #- https://twitter.com/fembiisnanto      # change to your twitter homepage
     - https://github.com/fembi       # change to your github homepage
     # Uncomment below to add more social links
     - https://www.facebook.com/fembiisnanto
