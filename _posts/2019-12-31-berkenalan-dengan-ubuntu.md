@@ -7,5 +7,7 @@ categories:
 tags:
 - ubuntu
 
+seo:
+  date_modified: 2020-01-02 17:45:07 +0700
 ---
 ## Ubuntu
