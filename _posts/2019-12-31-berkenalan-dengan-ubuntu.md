@@ -6,7 +6,6 @@ categories:
 - Ubuntu
 tags:
 - ubuntu
-seo:
 
 ---
 ## Ubuntu
