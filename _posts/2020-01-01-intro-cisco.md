@@ -1,9 +1,9 @@
 ---
 title: intro cisco
-date: 2020-01-01 17:00:00 +0000
+date: 2020-01-01T17:00:00.000+00:00
 categories:
-- cisco
 - networking
+- cisco
 tags:
 - cisco
 
